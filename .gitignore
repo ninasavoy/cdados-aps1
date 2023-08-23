@@ -75,6 +75,9 @@ docs/_build/
 .pybuilder/
 target/
 
+microdados/
+cdados-aps1/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
